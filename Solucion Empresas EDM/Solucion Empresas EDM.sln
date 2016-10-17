@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empresas.DALC", "Empresas.DALC\Empresas.DALC.csproj", "{9F682B3A-5A6A-45F3-AD4B-1DECBDBACA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEmpresasEDM", "WebEmpresasEDM\WebEmpresasEDM.csproj", "{41361C01-C515-48C6-BB53-FE1447371ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F682B3A-5A6A-45F3-AD4B-1DECBDBACA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F682B3A-5A6A-45F3-AD4B-1DECBDBACA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F682B3A-5A6A-45F3-AD4B-1DECBDBACA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F682B3A-5A6A-45F3-AD4B-1DECBDBACA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41361C01-C515-48C6-BB53-FE1447371ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41361C01-C515-48C6-BB53-FE1447371ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41361C01-C515-48C6-BB53-FE1447371ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41361C01-C515-48C6-BB53-FE1447371ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

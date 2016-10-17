@@ -1,0 +1,10 @@
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\Empresas.DALC.dll.config
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\Empresas.DALC.dll
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\Empresas.DALC.pdb
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\EntityFramework.dll
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\EntityFramework.xml
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\obj\Debug\Empresas.DALC.csprojResolveAssemblyReference.cache
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\obj\Debug\Empresas.DALC.dll
+c:\users\daniel encina\documents\visual studio 2015\Projects\Solucion Empresas EDM\Empresas.DALC\obj\Debug\Empresas.DALC.pdb
